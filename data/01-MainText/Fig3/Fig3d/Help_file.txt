@@ -1,0 +1,1 @@
+The raw data used to extract the numbers shown in the bar graph is provided in the SI Section 5.4.

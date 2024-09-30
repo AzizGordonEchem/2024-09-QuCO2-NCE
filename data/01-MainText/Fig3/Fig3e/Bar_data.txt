@@ -1,0 +1,4 @@
+Duration of CO2 purge (hours)	Measured from discharge voltage (ml) Measured from sensor(ml) Theoretical(ml)
+1	18.9	19	110.41
+5	42.16	42.14	103.15
+10	40	50	97.5
